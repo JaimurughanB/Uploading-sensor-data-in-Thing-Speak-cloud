@@ -71,6 +71,7 @@ Automatically act on your data and communicate using third-party services like T
 
 
 # PROGRAM:
+`````
 const int trigPin = 9;
 const int echoPin = 10;
 
@@ -94,8 +95,10 @@ void loop()
   Serial.print("Distance: ");
   Serial.println(distance);
 }
+``````
 
 # CIRCUIT DIAGRAM:
+
 
 # OUTPUT:
 
