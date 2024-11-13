@@ -98,9 +98,17 @@ void loop()
 ``````
 
 # CIRCUIT DIAGRAM:
+![image](https://github.com/user-attachments/assets/dc2cff32-14d2-40c8-84ae-337dd52fb1f0)
+
 
 
 # OUTPUT:
+## THINGSPEAK
+![image](https://github.com/user-attachments/assets/3bb343f3-84ae-4873-af5e-6b85b5ef2878)
+
+
+## SERIAL MONITOR
+![image](https://github.com/user-attachments/assets/e7986d52-33f0-488d-b3e7-4383f870c74a)
 
 # RESULT:
 
